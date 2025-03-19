@@ -1,0 +1,13 @@
+[project]
+name = "playing-with-gymnasium"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "box2d>=2.3.10",
+    "gymnasium>=1.0.0",
+    "ipykernel>=6.29.5",
+    "pillow>=11.1.0",
+    "pygame>=2.6.1",
+]
